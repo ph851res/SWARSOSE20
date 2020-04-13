@@ -98,7 +98,7 @@ ___
             (5) Der Nutzer kann zwischen den beiden Zahlungsmethoden wählen und wird ja nach Wahl, auf die entsprechende Zahlungsmethoden-Seite weiter geleitet, um den Zahlungsvorgang abzuschließen. 
             *Abonnement abschließen*  
             ![Registrierung_04](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_04.png)  
-            (6) Nach klicken des Buttons wird der Nutzer auf die Newsletter-Übersichtsseite weitergeleitet.
+            (6) Nach Klicken des Buttons wird der Nutzer auf die Newsletter-Übersichtsseite weitergeleitet.
 
 
 
