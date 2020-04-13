@@ -44,8 +44,8 @@ ___
         * Systemanforderungen 
             * Kontextdiagramm
             * UI-Benutzerschnittstellen
-                * Statische Verhalten
-                * Dynamische Verhalten
+                * Statisches Verhalten
+                * Dynamisches Verhalten
             * Datenschnittstellen
             * Teschnische Schnittstellen
             * Laufzeitumgebung
@@ -81,6 +81,22 @@ ___
         ![Kontextdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Kontextdiagramm.png)  
 
         * UI-Benutzerschnittstellen  
+            * Statisches Aussehen
+            siehe Abschnitt "Mockups erstellen mit balsamiq".
+            * Dynamisches Verhalten 
+            1. Registrierung  
+            *Bedingungen*  
+            ![Registrierung_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_01.png)  
+            *Nutzerdaten eingeben*  
+            ![Registrierung_02](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_02.png)  
+
+            *Zahlungsmethode wählen*  
+
+            ![Registrierung_03](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_03.png)  
+
+            *Abonnement abschließen* 
+
+            ![Registrierung_04](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_04.png)  
 
 
 
