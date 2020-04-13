@@ -36,27 +36,26 @@ ___
 ### Erstellen Sie eine komplette SRS.
 * Einleitung  
     * *Projektbeschreibung*  
-In diesem Projekt soll ein Software-System erstellt werden, welches Abonnenten eines Newsletters, die Möglichkeit bietet ihre Newsletter online im System abzurufen und zu lesen. Außerdem sollen Administratoren/Mitarbeiter Newsletter erstellen und diese Abonnenten zur Verfügung stellen können. Abonnenten sollen nach Erstellung eines Newsletters automatisiert via E-Mail benachrichtig werden, dass ein neuer Newsletter im System abrufbar ist. Des weiteren soll es Mitarbeitern möglich sein Abonnenten administrativ über das System zu betreuen.
-<br>
+    In diesem Projekt soll ein Software-System erstellt werden, welches Abonnenten eines Newsletters, die Möglichkeit bietet ihre Newsletter online im System abzurufen und zu lesen. Außerdem sollen Administratoren/Mitarbeiter Newsletter erstellen und diese Abonnenten zur Verfügung stellen können. Abonnenten sollen nach Erstellung eines Newsletters automatisiert via E-Mail benachrichtig werden, dass ein neuer Newsletter im System abrufbar ist. Des weiteren soll es Mitarbeitern möglich sein Abonnenten administrativ über das System zu betreuen.
 
     * *Ziel*  
-Ziel dieses Dokuments ist es im Folgenden, die im Vorherigen beschrieben Funktionalität der Software genau zu spezifizieren und alle nötigen Anforderungen offenzulegen.  
+    Ziel dieses Dokuments ist es im Folgenden, die im Vorherigen beschrieben Funktionalität der Software genau zu spezifizieren und alle nötigen Anforderungen offenzulegen.  
 
 * Beschreibung des zu entwicklenden Systems
-*Nutzergruppen*  
-Mitarbeiter, Kunden (Administratoren), Gäste (Besucher der frei verfügbaren Website)  
-<br>
+    * *Nutzergruppen*  
+    Mitarbeiter, Kunden (Administratoren), Gäste (Besucher der frei verfügbaren Website)
+
     * *Kernaufgaben*  
     siehe vorheriges Dokument  
-<br>
+
     * *Teilaufgaben*  
     siehe vorheriges Dokument  
-<br>
+
     * *Nutzungsanforderungen*  
     siehe vorheriges Dokument  
-<br>
+
     * *Systemanforderungen*  
-<br>
+
         * Kontextdiagramm  
         ![Kontextdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Kontextdiagramm.png)  
 
