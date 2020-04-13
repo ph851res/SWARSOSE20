@@ -1,7 +1,7 @@
 # Software Architektur - Aufgaben Block 1
 ## Übung 3 - Software-Systemanforderungen - 26.04.2020
 ### Mockups erstellen mit balsamiq.
-#### Registrierung
+#### 1. Registrierung
 *Bedingungen* 
 
 ![Registrierung_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_01.png)  
@@ -18,10 +18,18 @@
 
 ![Registrierung_04](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_04.png)  
 
-#### Newsletter verfassen
+#### 2. Newsletter verfassen
 *Newsletter verfassen auswählen*  
+
+![NewsVerfassen_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_NewsVerfassen_01.png)  
+
 *Newsletter verfassen*  
-*Newsletter freigeben*
+
+![NewsVerfassen_02](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_NewsVerfassen_02.png)  
+
+*Newsletter freigeben*  
+
+![NewsVerfassen_03](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_NewsVerfassen_03.png)
 ___
 ### Wie kann eine SRS geliedert sein?
 * Aufbau SRS
