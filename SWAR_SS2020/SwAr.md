@@ -93,7 +93,7 @@ ___
             ![Registrierung_02](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_02.png)  
             (3) "Vorname", "Nachname", "E-Mail", "E-Mail-Adresse bestätigen" und "Passwort erstellen" müssen ausgefüllt werden. 
             (4) Es muss valiidiert sein, dass alle Eingaben getätigt wurden, erst dann kann auf "Fortfahren" gedrückt werden.  
-            **Zahlungsmethode wählen**  
+            <br>**Zahlungsmethode wählen**  
             ![Registrierung_03](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_03.png) 
             (5) Der Nutzer kann zwischen den beiden Zahlungsmethoden wählen und wird ja nach Wahl, auf die entsprechende Zahlungsmethoden-Seite weiter geleitet, um den Zahlungsvorgang abzuschließen.  
             *Abonnement abschließen*  
