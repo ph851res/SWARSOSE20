@@ -87,15 +87,12 @@ ___
             1. Registrierung  
             *Bedingungen*  
             ![Registrierung_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_01.png)  
+            (1) Der Nutzer muss das Häkchen setzen, um den Bedingungen zuzustimmen  
             *Nutzerdaten eingeben*  
             ![Registrierung_02](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_02.png)  
-
             *Zahlungsmethode wählen*  
-
             ![Registrierung_03](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_03.png)  
-
-            *Abonnement abschließen* 
-
+            *Abonnement abschließen*  
             ![Registrierung_04](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_04.png)  
 
 
