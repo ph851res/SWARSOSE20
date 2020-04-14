@@ -134,5 +134,22 @@ ___
             | Syntaktisch  | JSON  |
             | Strukturell  | HTTPS  |
 
+        * Technische Schnittstellen
+            * Performanz
+            * Datensicherheit/Datenschutz
+            * System-System-Schnittstellen
+
+        * Laufzeitumgebung
+
+        * Sonstige Anforderungen an das Produkt 
+            * Lizenzmanagement
+                * Spring Framework
+                * React Web Framework
+            * Update Upgrade
+                * Laufende Updates, sollen das System mit den neusten Browser-Versionen kompatibel halten und ermöglichen, dass das System die gesetzlichen Vorgaben, im Bezug auf den Schutz personenbezogener Daten vor Dritten, erfüllt. 
+            * Gestzliche Vorgaben
+                * Daten der Nutzer müssen vor Missbrauch Dritter geschützt sein.
+                
+
 
 
