@@ -88,6 +88,7 @@ ___
             ![StyleGuide](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_SytleGuide_01.PNG) 
             * Dynamisches Verhalten 
             1. Registrierung  
+            ![Registrierung_01_Aktivitätsdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Aktivit%C3%A4tsdiagramm_Registrierung_01.png)  
             <br>**Bedingungen**  
             ![Registrierung_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_01.png)  
             (1) Der Nutzer muss das Häkchen setzen, um den Bedingungen zuzustimmen.  
@@ -104,7 +105,8 @@ ___
             (6) Nach Klicken des Buttons wird der Nutzer auf die Newsletter-Übersichtsseite weitergeleitet.  
 
             2. Newsletter verfassen  
-            <br>**Newsletter verfassen auswählen**  
+            ![Newsletter verfassen_01_Aktivitätsdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Aktivit%C3%A4tsdiagramm_Registrierung_01.png)  
+            <br>**Newsletter verfassen auswählen**    
             ![NewsVerfassen_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_NewsVerfassen_01.png)   
             (1) Durch klicken auf "Create News" wird der Nutzer auf die nächste Ansicht weiter geleitet auf der ein neue News erstellen kann.  
             <br>**Newsletter verfassen**  
