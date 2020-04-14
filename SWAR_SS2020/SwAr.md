@@ -84,8 +84,8 @@ ___
             * Statisches Aussehen  
             *Mockups*  
             siehe Abschnitt "Mockups erstellen mit balsamiq".  
-            *Style Guide  
-            ![StyleGuide](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Kontextdiagramm.png) 
+            *Style Guide*  
+            ![StyleGuide](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_SytleGuide_01.PNG) 
             * Dynamisches Verhalten 
             1. Registrierung  
             *Bedingungen*  
