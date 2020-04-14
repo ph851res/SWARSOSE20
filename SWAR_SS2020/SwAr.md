@@ -88,18 +88,18 @@ ___
             ![StyleGuide](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_SytleGuide_01.PNG) 
             * Dynamisches Verhalten 
             1. Registrierung  
-            *Bedingungen*  
+            <br>*Bedingungen*  
             ![Registrierung_01](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_01.png)  
             (1) Der Nutzer muss das Häkchen setzen, um den Bedingungen zuzustimmen.  
             (2) "Registrieren" kann gedrückt werden, sobald validiert ist, dass das Häkchen gesetzt ist.   
-            *Nutzerdaten eingeben*  
+            <br>*Nutzerdaten eingeben*  
             ![Registrierung_02](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_02.png)  
             (3) "Vorname", "Nachname", "E-Mail", "E-Mail-Adresse bestätigen" und "Passwort erstellen" müssen ausgefüllt werden. 
             (4) Es muss valiidiert sein, dass alle Eingaben getätigt wurden, erst dann kann auf "Fortfahren" gedrückt werden.  
             <br>**Zahlungsmethode wählen**  
             ![Registrierung_03](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_03.png) 
             (5) Der Nutzer kann zwischen den beiden Zahlungsmethoden wählen und wird ja nach Wahl, auf die entsprechende Zahlungsmethoden-Seite weiter geleitet, um den Zahlungsvorgang abzuschließen.  
-            *Abonnement abschließen*  
+            <br>*Abonnement abschließen*  
             ![Registrierung_04](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Wireframe_Registrierung_04.png)  
             (6) Nach Klicken des Buttons wird der Nutzer auf die Newsletter-Übersichtsseite weitergeleitet.  
             2. Newsletter verfassen
