@@ -126,6 +126,7 @@ ___
             | Organisatorisch  | Automatisierte E-Mail nach erstellen einer News  |
             | Syntaktisch  | JSON  |
             | Strukturell  | SMTP, POP3  |  
+            
             <br>Datenback  
             | Interoperabilität  | Anforderungen  |
             |---|---|
