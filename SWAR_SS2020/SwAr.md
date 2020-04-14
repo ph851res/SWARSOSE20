@@ -119,5 +119,19 @@ ___
             (5) Der Nutzer wird durch klicken des "Edit" Button zurück auf die vorherige Seite geleitet um Änderungen vorzunehmen.  
             (6) Durch klicken des "Release"-Buttons wird eine E-Mail versendet, welche die Abonnenten des Newsletters über die neue News informiert und die News im System angezeigt wird, sodass Abonnenten darauf zugreifen können. 
 
+        * Datenschnittstellen  
+            <br>Mail-Server 
+            | Interoperabilität   | Anforderungen  |
+            |---|---|
+            | Organisatorisch  | Automatisierte E-Mail nach erstellen einer News  |
+            | Syntaktisch  | JSON  |
+            | Strukturell  | SMTP, POP3  |  
+            <br>Datenback  
+            | Interoperabilität  | Anforderungen  |
+            |---|---|
+            | Organisatorisch  | Verschiedene Rollen, welchen unterschiedlichen Berechtigungen zugeteilt sind |
+            | Syntaktisch  | JSON  |
+            | Strukturell  | HTTPS  |
+
 
 
