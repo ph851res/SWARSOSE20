@@ -67,13 +67,13 @@ ___
     Mitarbeiter (Administratoren), Kunden (Abonnenten), Gäste (Besucher der frei verfügbaren Website), Gesetzgeber, Betreiber, Auftraggeber (Professor)
 
     * *Kernaufgaben*  
-    siehe vorheriges Dokument  
+    siehe PDF-Datei Software_Architektur_Uebung_1und2
 
     * *Teilaufgaben*  
-    siehe vorheriges Dokument  
+     siehe PDF-Datei Software_Architektur_Uebung_1und2  
 
     * *Nutzungsanforderungen*  
-    siehe vorheriges Dokument  
+     siehe PDF-Datei Software_Architektur_Uebung_1und2  
 
     * *Systemanforderungen*  
 
