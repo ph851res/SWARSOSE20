@@ -142,7 +142,7 @@ ___
                 * LDAP
                 * SHA-2, Salting
             * System-System-Schnittstellen
-                * -
+                * 
 
         * Laufzeitumgebung
             * Webserver z.B. Linux 
