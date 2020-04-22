@@ -136,10 +136,16 @@ ___
 
         * Technische Schnittstellen
             * Performanz
+                * Response Time 90% aller Antwortzeiten sollen weniger als 7 Sekunden betragen.
+                * Workload: Täglich 300 Nutzer Anfragen auf Login, täglich 250 Nutzer Anfragen auf News-Überblickseite,täglich 150 Nutzer Anfragen auf einzelne Artikel
             * Datensicherheit/Datenschutz
+                * LDAP
+                * SHA-2, Salting
             * System-System-Schnittstellen
+                * -
 
         * Laufzeitumgebung
+            * Webserver z.B. Linux 
 
         * Sonstige Anforderungen an das Produkt 
             * Lizenzmanagement
