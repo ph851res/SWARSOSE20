@@ -139,10 +139,9 @@ ___
                 * Response Time 90% aller Antwortzeiten sollen weniger als 7 Sekunden betragen.
                 * Workload: Täglich 300 Nutzer Anfragen auf Login, täglich 250 Nutzer Anfragen auf News-Überblickseite,täglich 150 Nutzer Anfragen auf einzelne Artikel
             * Datensicherheit/Datenschutz
-                * LDAP
                 * SHA-2, Salting
             * System-System-Schnittstellen
-                * 
+                * LDAP
 
         * Laufzeitumgebung
             * Webserver z.B. Linux 
