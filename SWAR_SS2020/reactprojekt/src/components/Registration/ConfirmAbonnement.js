@@ -8,7 +8,7 @@ class ConfirmAbonnement extends Component {
     render() {
         return (
             <div className="card mt-1 p-2" style={formStyle}>
-                <h1>Neuen Artikel erstellen</h1>
+                <h1>Abonnement bestätigen</h1>
                 <p style={centerText}>Bitte bestätigen Sie ihre Angaben, um die Registration abzuschließen
                 und das Abonnement unseres Newsletters zu beginnen.
                 </p>
@@ -20,7 +20,7 @@ class ConfirmAbonnement extends Component {
                                className="btn btn-primary form-control"/>
                     </div>
                     <div className="col">
-                        <input type="submit" value="Abonnement abschließen" className="btn btn-primary form-control"/>
+                        <a href="/newsletterdashboard" className="btn btn-primary form-control">Abonnement abschließen</a>
                     </div>
                 </div>
             </div>

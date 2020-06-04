@@ -6,6 +6,7 @@ import CreateForm from "./components/Admin/CreateNewsletter/CreateForm"
 import Dashboard from "./components/Admin/Dashboard"
 import Header from "./components/Header/Header";
 import Landingpage from "./components/Startseite/Landingpage";
+import NewsletterDashboard from "./components/Newsletter/NewsletterDashboard";
 
 function App() {
   return (
@@ -21,11 +22,14 @@ function App() {
               <Route exact path="/">
                   <Landingpage/>
               </Route>
-              <Route exact path="/dashboard">
+              <Route exact path="/admin/dashboard">
                   <Dashboard/>
               </Route>
               <Route path="/dashboard/newsletter/erstellen">
                   <CreateForm/>
+              </Route>
+              <Route path="/newsletterdashboard">
+                  <NewsletterDashboard/>
               </Route>
           </Switch>
           </body>

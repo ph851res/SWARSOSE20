@@ -14,14 +14,14 @@ class createNews extends Component {
                     <div className="card-body">
                         <h4 className="card-title">Newsletter schreiben</h4>
                         <p className="card-text">Neuen Newsletter erstellen und veröffentlichen</p>
-                        <a href="/dashboard/newsletter/erstellen" className="btn btn-primary">Go somewhere</a>
+                        <a href="/dashboard/newsletter/erstellen" className="btn btn-primary">Newsletter erstellen</a>
                     </div>
                 </div>
                 <div className="card mt-2">
                     <div className="card-body">
                         <h4 className="card-title">Abonnenten verwalten</h4>
                         <p className="card-text">Abonnenten verwalten und Änderungen durchführen</p>
-                        <a href="#" className="btn btn-primary">Go somewhere</a>
+                        <a href="#" className="btn btn-primary">Abonnenten verwalten</a>
                     </div>
                 </div>
             </div>
