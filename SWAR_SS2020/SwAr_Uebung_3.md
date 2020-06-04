@@ -147,7 +147,8 @@ ___
             * Webserver z.B. Linux 
 
         * Sonstige Anforderungen an das Produkt 
-            * Lizenzmanagement
+            * Lizenzmanagement  
+            
                 * Spring Framework
                 * React Web Framework
             * Update Upgrade
