@@ -44,15 +44,18 @@
         | Risikobereitschaft des Auftraggebers | kein Risiko |
         | Haftung | keine Haftung |
 
-* Bausteinsciht  
+* Bausteinsicht  
 
     ![Komponentendiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Komponentendiagramm.png)
+
 * Laufzeitsicht  
 
-    ![Sequenzdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Sequenzdiagramm.png)  
+    ![Sequenzdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Sequenzdiagramm.png)
+
 * Verteilungssicht  
 
     ![Verteilungsdiagramm](https://github.com/ph851res/SWARSOSE20/blob/master/SWAR_SS2020/Images/SwAr_Verteilungsdiagramm.png)  
+
 * Architekturaspekte
     * Persistenz: 
         * Die Datenspeicherung im neuen System übernimmt das Spring Framework auf der Basis von JDBC, genauer gesagt Java Persistence API. 
