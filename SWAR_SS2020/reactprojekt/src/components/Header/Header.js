@@ -20,7 +20,6 @@ class Header extends Component {
                             </li>
                         </ul>
                     </div>
-
                 </nav>
             </div>
         )

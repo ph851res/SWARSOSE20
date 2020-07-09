@@ -1,53 +1,30 @@
-import React, { Component } from 'react'
+import React, {Component, useState, useEffect} from 'react'
+import divWithClassName from "react-bootstrap/cjs/divWithClassName";
 
-class NewsletterDashboard extends Component {
 
-    render() {
-        return (
-            <div className="container mt-5">
-                <div className="row mt-2">
-                    <div className="col">
-                        <div className="card">
-                            <div className="card-body">
-                                <h3 className="card-title">Newsletter A</h3>
-                                <p className="card-text">Hier steht der Preview Text des Artikels, mit kurzen Informationen.</p>
-                                <a href="#" className="btn btn-primary">Zum Artikel</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <div className="card-body">
-                                <h3 className="card-title">Newsletter B</h3>
-                                <p className="card-text">Hier steht der Preview Text des Artikels, mit kurzen Informationen.</p>
-                                <a href="#" className="btn btn-primary">Zum Artikel</a>
-                            </div>
-                        </div>
+function NewsletterDashboard(props) {
+    const [articles, setArticles] = useState(JSON.parse(localStorage.getItem('articles')));
+
+
+
+    return (<div>
+        {
+            articles.map(article => {
+                return (
+                    <div className="container mt-5">
+                <div className="card">
+                    <h3 className="card-header">{article.title}</h3>
+                    <div className="card-body">
+                        <h5 className="card-title">{article.subtitle}</h5>
+                        <p className="card-text">{article.content}</p>
                     </div>
                 </div>
-                <div className="row mt-2">
-                    <div className="col">
-                        <div className="card">
-                            <div className="card-body">
-                                <h3 className="card-title">Newsletter C</h3>
-                                <p className="card-text">Hier steht der Preview Text des Artikels, mit kurzen Informationen.</p>
-                                <a href="#" className="btn btn-primary">Zum Artikel</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col">
-                        <div className="card">
-                            <div className="card-body">
-                                <h3 className="card-title">Newsletter D</h3>
-                                <p className="card-text">Hier steht der Preview Text des Artikels, mit kurzen Informationen.</p>
-                                <a href="#" className="btn btn-primary">Zum Artikel</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        )
-    }
+            </div>);}
+            )
+        }
+        </div>
+    )
+
 }
 
 export default NewsletterDashboard
