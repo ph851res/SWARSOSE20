@@ -21,7 +21,7 @@ function CreateNews(props) {
     return (
         <div className="container mt-5">
             <div className="card mt-1 p-2" style={formStyle}>
-                <form onSubmit={handleSubmit}>
+                <form onSubmit={handleSubmit} action={""}>
                     <div className="form-group">
                         <label htmlFor="">Titel</label>
                         <input type="text" className="form-control" value={title} onChange={(e) => setTitle(e.target.value)}/>

@@ -7,7 +7,7 @@ class Landingpage extends Component {
             <div>
                 <div className="card">
                     <div className="card-body">
-                        <h1>Willkommen auf unserer Newsletterseiter</h1>
+                        <h1>Willkommen auf unserer Newsletterseite</h1>
                         <p className="card-text">Registriere dich jetzt für unsere Newsletter und erfahre viele neue News</p>
                         <a href="/registration" className="btn btn-primary">Registrieren</a>
                     </div>
